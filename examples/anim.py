@@ -1,9 +1,8 @@
-#!/usr/bin/env python
+#!C:/Users/ich/anaconda3/envs/pycoz/python.exe
 
 import time
 
 import pycozmo
-
 
 with pycozmo.connect() as cli:
 
